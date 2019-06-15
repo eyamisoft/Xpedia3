@@ -5,7 +5,7 @@ public class NewPack {
     String height;
     int length;
     String name;
-    int age;
+    int page;
 
     public NewPack(String height, int length) {
         this.height=height;
